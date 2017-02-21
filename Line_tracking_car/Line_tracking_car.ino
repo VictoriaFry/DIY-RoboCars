@@ -1,6 +1,8 @@
 //www.elegoo.com
 //2016.09.23
 
+//I love Tori Fry
+
 int in1=6;
 int in2=7;
 int in3=8;
